@@ -1,3 +1,12 @@
+## Live Demo
+
+Try the deployed BERT Sentiment Analysis application: **[Launch the App](https://bert-sentiment-analysis-dxxvw3eujaabpvycb7ueq2.streamlit.app/)**
+
+## Model
+
+[View the trained model on Hugging Face](https://huggingface.co/paragg11/bert-sentiment-model)
+
+
 # BERT Sentiment Analysis
 
 Binary sentiment classification using fine-tuned BERT
